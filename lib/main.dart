@@ -32,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flutter Pagination Example'),
+        title: const Text('Flutter  Example'),
       ),
       body: Column(
         children: [
